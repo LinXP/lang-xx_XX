@@ -2,11 +2,11 @@
 <Language>
 <LanguageURL>https://github.com/LinXP/lang-xx_XX/archive/master.zip</LanguageURL>
 <Language>Test</Language>
-<LanguageLocal>Test</LanguageLocal>
+<LanguageLocal>Debug</LanguageLocal>
 <LanguagePack>af_ZA</LanguagePack>
 <Author>LinXP</Author>
 <Name>Test translation</Name>
-<TemplateURL>https://raw.githubusercontent.com/LinXP/lang-xx_XX/blob/master/lang-xx_XX.xml</TemplateURL>
+<TemplateURL>https://raw.githubusercontent.com/LinXP/lang-xx_XX/master/lang-xx_XX.xml</TemplateURL>
 <Version>2022.05.30</Version>
 <Icon></Icon>
 <Support>https://</Support>

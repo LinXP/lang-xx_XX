@@ -7,5 +7,5 @@ Test localization to debug the unraid localization system, it clearly shows wher
 example:
 str44|dashboard - where 44 is line in dashboard.txt file
 
-use the link to download test localization online (select an African (af_ZA) language from the list)
+use the link to download test localization online (select an **Test(Debug)** language from the list)
 https://raw.githubusercontent.com/LinXP/lang-xx_XX/main/lang-xx_XX.xml
