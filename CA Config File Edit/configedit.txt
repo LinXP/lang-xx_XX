@@ -1,0 +1,12 @@
+Select File=str1|configedit
+Error reading file=str2|configedit
+No Backup File Found=str3|configedit
+Select a file to edit=str4|configedit
+note editing a binary file could have unintended consequences=str5|configedit
+No file selected=str6|configedit
+Backup File=str7|configedit
+Editing=str8|configedit
+Generally, it is not recommended to change the format=str9|configedit
+Credits=str10|configedit
+No Backup File Found=str11|configedit
+File Format=str12|configedit

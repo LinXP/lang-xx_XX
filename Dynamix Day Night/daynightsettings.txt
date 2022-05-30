@@ -1,0 +1,31 @@
+Automatic theming=str1|daynightsettings
+Bing API key=str2|daynightsettings
+Bing=str3|daynightsettings
+City name=str4|daynightsettings
+Country name=str5|daynightsettings
+Day theme=str6|daynightsettings
+Geocoding service=str7|daynightsettings
+Google API key=str8|daynightsettings
+Google=str9|daynightsettings
+MapQuest API key=str10|daynightsettings
+MapQuest=str11|daynightsettings
+Night theme=str12|daynightsettings
+No geographical coordinates found for the given address=str13|daynightsettings
+Please adjust=str14|daynightsettings
+Postal code=str15|daynightsettings
+See=str16|daynightsettings
+Street address=str17|daynightsettings
+this site=str18|daynightsettings
+to obtain a Bing API key=str19|daynightsettings
+to obtain a Google API key=str20|daynightsettings
+to obtain a MapQuest API key=str21|daynightsettings
+
+:day_night_plug:
+> Enter your address information (street, city, country) which is used to calculate the sunrise and sunset times of your location.
+>
+> A geocoding service is used to convert your address to geographical (latitude and longitude) coordinates.<br>
+> You need to register with one of the available services and get a unique API key to make use of their service.
+>
+> The **day** theme is selected between sunrise and sunset<br>
+> The **night** theme is selected between sunset and sunrise
+:end

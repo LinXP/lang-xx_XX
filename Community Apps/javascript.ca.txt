@@ -1,0 +1,14 @@
+Search for %s=str1|javascript.ca|%s
+DockerHub Search for %s=str2|javascript.ca|%s
+Are you sure you want to delete %s from the list of previously installed applications=str3|javascript.ca|%s
+Are you sure you want to uninstall %s=str4|javascript.ca|%s
+Are you sure you want to remove the private application %s by %s=str5|javascript.ca|%s|%s
+Removing %s=str6|javascript.ca|%s
+Uninstalling %s=str7|javascript.ca|%s
+Install %s Selected Application=str8|javascript.ca|%s
+Install %s Selected Applications=str9|javascript.ca|%s
+Are you sure you want to install %s docker and %s plugin applications=str10|javascript.ca|%s|%s
+Install Application=str11|javascript.ca
+Install Applications=str12|javascript.ca
+Something really wrong went on during %s=str13|javascript.ca|%s
+Are you sure you want to delete %s applications from the previously installed list=str14|javascript.ca|%s

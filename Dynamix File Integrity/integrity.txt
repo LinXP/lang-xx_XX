@@ -1,0 +1,5 @@
+Aborted - export file not found=str1|integrity
+Import=str2|integrity
+Build up-to-date=str3|integrity
+Export up-to-date=str4|integrity
+Operation aborted=str5|integrity

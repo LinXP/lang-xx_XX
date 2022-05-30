@@ -1,0 +1,22 @@
+Hotplug USB=str1|libvirthotplugusb
+Running VMs=str2|libvirthotplugusb
+Attach=str3|libvirthotplugusb
+Attach the USB device to the selected VM=str4|libvirthotplugusb
+Detach=str5|libvirthotplugusb
+Refresh this page=str6|libvirthotplugusb
+Detach the USB device from the selected VM=str7|libvirthotplugusb
+Result=str8|libvirthotplugusb
+Result of attachdetach operation=str9|libvirthotplugusb
+Note=str10|libvirthotplugusb
+Some USB Devices require detaching and attaching multiple times to be properly detected by VMs=str11|libvirthotplugusb
+If you disconnected the USB device while it was attached to a VM, you will have to detach it and then re-attach it=str12|libvirthotplugusb
+Detaching Please wait=str13|libvirthotplugusb
+Attaching Please wait=str14|libvirthotplugusb
+No VM Selected=str15|libvirthotplugusb
+No USB devices=str16|libvirthotplugusb
+;
+; Help
+;
+:libvirt_hot_plug:
+> Select the VM for the USB device to be attached/detached and the USB device for the selected VM.
+:end

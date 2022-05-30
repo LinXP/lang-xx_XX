@@ -1,0 +1,22 @@
+Process=str1|openfiles
+Kill Process=str2|openfiles
+Process ID=str3|openfiles
+Open Files=str4|openfiles
+Files that may prevent shutdown=str5|openfiles
+File Name and Path=str6|openfiles
+An entry for bash means you have a terminal session open with the working directory on the array=str7|openfiles
+If smbd is listed, it means that another computer has a samba share mounted=str8|openfiles
+Files open by Samba usually wont prevent array shutdown=str9|openfiles
+No open files=str10|openfiles
+Kill=str11|openfiles
+Command timed out=str12|openfiles
+Cannot get list of open files=str13|openfiles
+;
+; Help
+;
+:open_files_help_plug:
+> Click on the **Kill** button to stop the process that is holding the files open.
+>  A dialog box will open showing you the progress of killing the process holding those files open.
+>
+> Click on **Process**, **Process ID**, **Files That May Prevent Shutdown**, or **File Name and Path** to change the sort order.
+:end

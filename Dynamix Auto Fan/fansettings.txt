@@ -1,0 +1,10 @@
+Click DETECT=str1|fansettings
+Detect=str2|fansettings
+Exclude drives=str3|fansettings
+Fan control function=str4|fansettings
+High temperature threshold=str5|fansettings
+Low temperature threshold=str6|fansettings
+Minimum PWM value=str7|fansettings
+PWM controller=str8|fansettings
+PWM fan=str9|fansettings
+Refresh interval=str10|fansettings

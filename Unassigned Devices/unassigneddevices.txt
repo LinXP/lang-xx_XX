@@ -1,0 +1,201 @@
+Add ISO File Share=str1|unassigneddevices
+Add Remote SMB=str2|unassigneddevices
+Add Root Share=str3|unassigneddevices
+An XFS or BTRFS disk partitioned in UD is compatible with the array disk partitioning and can be added to the array=str4|unassigneddevices
+Any data on this disk will be lost=str5|unassigneddevices
+Are you sure=str6|unassigneddevices
+Auto mount=str7|unassigneddevices
+Back=str8|unassigneddevices
+Browse Disk Share=str9|unassigneddevices
+Browse ISO File Share=str10|unassigneddevices
+Browse Remote SMB=str11|unassigneddevices
+Choose File System Format=str12|unassigneddevices
+Choose ISO File=str13|unassigneddevices
+Choose Server=str14|unassigneddevices
+Choose Share=str15|unassigneddevices
+Click on Icon to Choose Protocol=str16|unassigneddevices
+Change Disk Mount Point=str17|unassigneddevices
+Change ISO File Mount Point=str18|unassigneddevices
+Change Remote Share Mount Point=str19|unassigneddevices
+Change SMB=str20|unassigneddevices
+Changing the Mount Point will also change the disk label=str21|unassigneddevices
+Click to select ISO file=str22|unassigneddevices
+Click to view/hide partitions and mount points=str23|unassigneddevices
+Complete=str24|unassigneddevices
+Disks=str25|unassigneddevices
+Disk Label=str26|unassigneddevices
+Disk Log Information=str27|unassigneddevices
+Disk Sharing must be disabled to add a Root Share=str28|unassigneddevices
+Do NOT use a remote share local mount in a Docker container or VM for critical data=str29|unassigneddevices
+Do not put files or folders into the /mnt/rootshare/ folder=str30|unassigneddevices
+Domain=str31|unassigneddevices
+Edit Device Script=str32|unassigneddevices
+Edit ISO File Script=str33|unassigneddevices
+Edit Remote SMB=str34|unassigneddevices
+Enter the Domain for the share if on a Domain=str35|unassigneddevices
+Enter the Password if the share is password protected=str36|unassigneddevices
+Enter the Username if the share is password protected=str37|unassigneddevices
+Enter the password to use for this disk=str38|unassigneddevices
+Execute Script as udev simulating a device being installed=str39|unassigneddevices
+Fail=str40|unassigneddevices
+file share for=str41|unassigneddevices
+File System Check=str42|unassigneddevices
+File System Scrub=str43|unassigneddevices
+Format=str44|unassigneddevices
+Formatting=str45|unassigneddevices
+Free=str46|unassigneddevices
+from disk=str47|unassigneddevices
+Go to Settings->Global Share Settings and set Enable Disk Shares to Auto or Off=str48|unassigneddevices
+Historical Devices=str49|unassigneddevices
+If this disk was pre-cleared, you will remove the pre-clear signature.
+If you add the disk to the array and the pre-clear signature is removed, Unraid will go through the lengthy process of clearing the disk again=str51|unassigneddevices
+ISO File is=str52|unassigneddevices
+ISO File Shares=str53|unassigneddevices
+Identification=str54|unassigneddevices
+If using a disk password be sure to enter the password for this disk in UD Settings so it can be mounted=str55|unassigneddevices
+Device=str56|unassigneddevices
+Leave blank to use the array passwordpassphrase=str57|unassigneddevices
+Load Shares=str58|unassigneddevices
+Loading=str59|unassigneddevices
+Log=str60|unassigneddevices
+Mount=str61|unassigneddevices
+Mounting=str62|unassigneddevices
+NFS Mount Point=str63|unassigneddevices
+NFS or ISO File Shares configured=str64|unassigneddevices
+NFS Script=str65|unassigneddevices
+NFS Share=str66|unassigneddevices
+NFS Shares=str67|unassigneddevices
+Next=str68|unassigneddevices
+No Remote SMB=str69|unassigneddevices
+No Unassigned Disks available=str70|unassigneddevices
+not installed=str71|unassigneddevices
+Note=str72|unassigneddevices
+You must enable NFS in Settings->NFS to mount NFS shares=str73|unassigneddevices
+You must enable SMB in Settings->SMB to mount SMB shares=str74|unassigneddevices
+Open=str75|unassigneddevices
+Partition and Format Disk=str76|unassigneddevices
+Pass Thru=str77|unassigneddevices
+Password=str78|unassigneddevices
+Read only=str79|unassigneddevices
+Reboot=str80|unassigneddevices
+Refresh Disks and Configuration=str81|unassigneddevices
+Remember your password It cannot be recovered=str82|unassigneddevices
+Remote Share is=str83|unassigneddevices
+Remote share mounts are dependent on a solid and reliable network connection and that is difficult to achieve=str84|unassigneddevices
+Remove Device configuration=str85|unassigneddevices
+Remove ISO File Share=str86|unassigneddevices
+Remove Partition=str87|unassigneddevices
+Remove Remote SMB=str88|unassigneddevices
+Remove partition=str89|unassigneddevices
+Run with CORRECT flag=str90|unassigneddevices
+Running=str91|unassigneddevices
+Shares=str92|unassigneddevices
+Script=str93|unassigneddevices
+Search For Servers=str94|unassigneddevices
+Search for Servers, or enter the Server nameIP address manually=str95|unassigneddevices
+Search for Shares or enter the Share name manually=str96|unassigneddevices
+Searching=str97|unassigneddevices
+Select the Mount Point to Root Share=str98|unassigneddevices
+Serial Number Mountpoint=str99|unassigneddevices
+share for=str100|unassigneddevices
+Simple=str101|unassigneddevices
+SMB Shares=str102|unassigneddevices
+Source=str103|unassigneddevices
+SSD cannot be spun down=str104|unassigneddevices
+Success=str105|unassigneddevices
+Show Historical Devices=str106|unassigneddevices
+Show SMB/NFS/ISO Shares=str107|unassigneddevices
+Show Disk Devices=str108|unassigneddevices
+This is a way to gather Unraid shares into one Root Share=str109|unassigneddevices
+This will remove the ISO file share for=str110|unassigneddevices
+This will remove the remote=str111|unassigneddevices
+This will remove the saved configuration of=str112|unassigneddevices
+This will remove the=str113|unassigneddevices
+to confirm=str114|unassigneddevices
+to format=str115|unassigneddevices
+Unmount=str116|unassigneddevices
+Unmounting=str117|unassigneddevices
+Use caution when gathering shares into one Root Share=str118|unassigneddevices
+Used=str119|unassigneddevices
+User and Pool Shares=str120|unassigneddevices
+User Shares=str121|unassigneddevices
+Username=str122|unassigneddevices
+View Device Script Log=str123|unassigneddevices
+View ISO File Script Log=str124|unassigneddevices
+View Remote SMB=str125|unassigneddevices
+When you copy files between shares in the Root Share, the files may not end up on the expected disks=str126|unassigneddevices
+NFS Script Log=str127|unassigneddevices
+You can also subject yourself to security issues like ransomware by exposing all your shares in one Root Share=str128|unassigneddevices
+You must enable NFS in Settings->NFS to mount NFS shares=str129|unassigneddevices
+You must enable SMB in Settings->SMB to mount SMB shares=str130|unassigneddevices
+You must enable the Destructive Mode in UD Settings before you can Format this disk=str131|unassigneddevices
+WARNING=str132|unassigneddevices
+You WILL have problems if you do=str133|unassigneddevices
+You will need to enter credentials to list the shares=str134|unassigneddevices
+
+; Help
+;
+:unassgned_devices_switches_plug:
+> Turn on the **Disks** switch to change the web page to show disk devices. Turn off the **Disks** switch to change the web page to hide disk devices.
+>
+> Turn on the **Shares** switch to change the web page to show shares. Turn off the **Shares** switch to change the web page to hide shares.
+>
+> Turn on the **Historical** switch to show Historical disk devices. Turn off **Historical** switch to switch back to not show Historical disk devices.
+>
+> Click on the <i style=str145|unassigneddevices
+>
+> Click on the <i style=str147|unassigneddevices
+>
+> You can spin a disk up or down by clicking on the disk ball <i class=str149|unassigneddevices
+:end
+
+:unassigned_devices_general_help_plug:
+> **Unassigned Devices is called UD for short.**
+>
+> Hover your mouse over an any active area on the UD page and a tool tip will show you what clicking that area does.
+> You can mount USB devices, sata drives, Remote SMB/NFS shares, and ISO Files with UD.  Any devices with the auto mount switch on will be mounted when the array is started.  All drives and SMB/NFS Mounts are unmounted when the array is stopped on the 'stopping_svcs' event.
+> If you want to share your drive, you can turn on the Share switch.  The default for Remote SMB shares is Public read/write access.  Enable SMB Security by user in the Unassigned Devices Settings.  NFS shares are exported and access is read/write.  The export of NFS devices is enabled in the Unassigned Devices settings. You can also enable a common script that will be executed on every disk mount.  In order to share any UD device, sharing needs to be enabled in the UD Settings and the switch turned on to share the particular device.  SMB/NFS remove shares and ISO mounts are always shared.
+> After entering a mount point, press &lt;Enter&gt; to save the change.
+>
+> Additional options are available when you click on the <i style=str160|unassigneddevices
+>
+> The 'Settings->Unassigned Devices' security settings for SMB and NFS must be set correctly for SMB and NFS sharing to work properly.
+>
+> If the mount button is grayed out for a SMB/NFS remote share, the remote server is not responding to a ping.  The remote share server must respond to a ping or UD will consider it off-line.
+>
+> The 'Add Root Share' button is disabled when 'Enable disk shares' is enabled and any Root Shares previously added will not mount.
+>
+> UD has a destructive mode that allows deleting disk partitions and formatting disks.	If Destructive Mode is not turned on in the UD Settings, you WILL NOT be able to format a disk or remove partitions.  Go the the 'Settings->Unassigned Devices' to set the destructive mode.
+>
+> **To format a disk:**
+>
+> + Destructive mode must be enabled.
+> + Disk must have all partitions removed.  Unmount disk, click on the <i style=str173|unassigneddevices
+> + If the disk has been precelared and shows a grayed 'Format' button, click on the <i style=str174|unassigneddevices
+>
+> **Note: A disk partitioned in UD is compatible with the array disk partitioning and can be added to the array.  Supported file formats are XFS, XFS encrypted, BTRFS and BTRFS encrypted.**
+>
+> **Encrypted Disks:**
+>
+> + Any disk formatted in UD that is encrypted will use the array password/passphrase and can be incorporated into the array.  Or you can set a unique password when it is formatted.  If you set a password on the disk when it is formatted, you will need to enter a disk password in Unassignd Devices->Settings for that disk.
+> + Any disk that was not encrypted with the Array password/passphrase can be mounted by setting a per disk passord set in Unassigned Devices->Settings.
+>
+> **Unassigned devices script:**
+>
+> UD includes a script that is used for mounting and unmounting devices and SMB/NFS mounts. These scripts can be used from the command line or in your scripts as necessary.
+>
+> + '/usr/local/sbin/rc.unassigned mount autodevices' - all devices set to auto mount will be mounted.
+> + '/usr/local/sbin/rc.unassigned mount autoshares' - all SMB/NFS mounts set to auto mount will be mounted.
+> + '/usr/local/sbin/rc.unassigned umount auto' - all devices and SMB/NFS mounts set to auto mount will be unmounted.
+> + '/usr/local/sbin/rc.unassigned umount all' - all devices and SMB/NFS mounts are unmounted in preparation for shutting down the array.
+> + '/usr/local/sbin/rc.unassigned mount /dev/sdX or devX' - mount device sdX where 'X' is the device designator.  The devX is the device name in the UD page.  If the device name is 'Dev 1', then use dev1 as the device to mount.
+> + '/usr/local/sbin/rc.unassigned mount name=str192|unassigneddevices
+> + '/usr/local/sbin/rc.unassigned umount /dev/sdX or devX' - unmount device sdX where 'X' is the device designator. The devX is the device name in the UD page.  If the device name is 'Dev 1', then use dev1 as the device to unmount. You can use this command in a UD script to unmount the device when the script has completed.
+> + '/usr/local/sbin/rc.unassigned umount name=str194|unassigneddevices
+> + '/usr/local/sbin/rc.unassigned spindown devX' - spin down a disk.  The devX is the device name in the UD page.  If the device name is 'Dev 1', then use dev1 as the device to spin down.  SSDs will not spin down.
+> + '/usr/local/sbin/rc.unassigned spindown name=str196|unassigneddevices
+> + '/usr/local/sbin/rc.unassigned mount SOURCE' - where SOURCE is the SMB/NFS source.
+> + '/usr/local/sbin/rc.unassigned umount SOURCE' - where SOURCE is the SMB/NFS source.
+>
+> Be careful using the /dev/sdX designation because it can change after a reboot.
+:end

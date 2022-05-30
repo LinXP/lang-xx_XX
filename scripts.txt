@@ -1,0 +1,5 @@
+A new version of %s is available=str1|scripts|%s
+Docker=str2|scripts
+Language=str3|scripts
+Notice %s - Version update %s=str4|scripts|%s|%s
+Plugin=str5|scripts

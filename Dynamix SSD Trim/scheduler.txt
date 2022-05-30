@@ -1,0 +1,41 @@
+Any=str1|scheduler
+Daily schedule=str2|scheduler
+Day Date=str3|scheduler
+Hour=str4|scheduler
+Hourly schedule=str5|scheduler
+Minute=str6|scheduler
+Monthly schedule=str7|scheduler
+Scheduled Tasks=str8|scheduler
+Weekly schedule=str9|scheduler
+Day of the month=str10|scheduler
+Day of the week=str11|scheduler
+Every 2 hours=str12|scheduler
+Every 3 hours=str13|scheduler
+Every 4 hours=str14|scheduler
+Every 6 hours=str15|scheduler
+Every 8 hours=str16|scheduler
+Every hour=str17|scheduler
+HHMM=str18|scheduler
+SSD TRIM schedule=str19|scheduler
+Time of the day=str20|scheduler
+
+:trim_schedule_plug:
+> Choose a trim schedule ranging from hourly, daily, weekly and monthly.
+>
+> The interval determines how often SSD trim will run, it runs in the background.
+:end
+
+:trim_day_of_the_week_plug:
+> Choose a day when the weekly schedule is selected. Otherwise disabled.
+:end
+
+:trim_day_of_the_month_plug:
+> Choose a date when the monthly schedule is selected. Otherwise disabled.
+:end
+
+:trim_time_of_the_day_plug:
+> When an hourly schedule is selected this will set the interval in hours. An interval always starts on the whole hour (minute 0).
+>
+> For the other schedules choose here the time of the day trim should start.
+:end
+

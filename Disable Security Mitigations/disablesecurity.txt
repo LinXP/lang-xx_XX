@@ -1,0 +1,11 @@
+Disabling Spectre, Meltdown and Zombieload MDS mitigations may improve your CPU speed But these are security risks for certain workloads, and disabling the mitigations is purely all at your own risk=str1|disablesecurity
+Mitigations currently disabled=str2|disablesecurity
+Mitigations currently enabled=str3|disablesecurity
+Status=str4|disablesecurity
+will be updated after rebooting the server=str5|disablesecurity
+Enable Mitigations=str6|disablesecurity
+Disable Mitigations=str7|disablesecurity
+Disable Security Mitigations A Reboot Is Required For Changes To Take Effect=str8|disablesecurity
+A Reboot Is Required For Changes To Take Effect=str9|disablesecurity
+Mitigations will be enabled after a reboot=str10|disablesecurity
+Mitigations will be disabled after a reboot=str11|disablesecurity

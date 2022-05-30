@@ -1,0 +1,420 @@
+Cancel=str1|apps
+
+; My PSAs / banners
+Happy New Year=str4|apps
+Happy Holidays from Andrew, Tracey, and family=str5|apps
+Please Enjoy Responsibly=str6|apps
+Popup Blocked CA requires popups to be enabled under certain circumstances You must white list your server within your browser to allow popups=str7|apps
+Docker Service Not Enabled - Only Plugins Available To Be Installed Or Managed=str8|apps
+Docker system failed to start - Only Plugins Available To Be Installed Or Managed=str9|apps
+Array not started - Only Plugins Available To Be Installed Or Managed=str10|apps
+Community Applications works best when cookies are enabled in your browser Certain features may not be available=str11|apps
+Backup Server Active Some icons may not appear, and plugin installations may be affected=str12|apps
+Debugging enabled This significantly increases the memory used by your browser=str13|apps
+Browser translation detected Display issues may result=str14|apps
+
+; Sorting Options
+Sort By=str17|apps
+Name Ascending=str18|apps
+Name Descending=str19|apps
+Downloads=str20|apps
+Date Added=str21|apps
+Number Of Apps=str22|apps
+; Initial disclaimer translations
+Disclaimer=str24|apps
+All applications listed here are 3rd party additions to Unraid Neither the authors of Community Applications nor Limetech make any warranty as to the suitability of any application listed here=str25|apps
+Every attempt is made to ensure that only safe and compatible applications are present=str26|apps
+Application Policy=str27|apps
+I Understand=str28|apps
+Installations of apps disabled You must accept the warning to be able to install applications=str29|apps
+Click here=str30|apps
+%s Results Per Page=str31|apps|%s
+Results Per Page: %s=str32|apps|%s
+
+; Plugin Disclaimer
+Community Applications contains both docker containers and plugin applications Plugins are designed for OS enhancements, and run with full privileges on your system and are clearly identified within CA=str35|apps
+Plugin Note=str36|apps
+
+; Multi Install
+Install Plugin Applications=str39|apps
+Select all on page=str40|apps
+
+; Searches
+Search=str43|apps
+Click Here To Get More Results From DockerHub=str44|apps
+No Matching Applications Found=str45|apps
+
+; Repository Related
+%s removed as favourite repository=str48|apps|%s
+%s set as favourite repository=str49|apps|%s
+Click to remove favourite repository=str50|apps
+Click to set %s as favourite repository=str51|apps|%s
+Search for apps in repository=str52|apps
+No description present=str53|apps
+Go to the forum page=str54|apps
+Go to the webpage=str55|apps
+Go to reddit=str56|apps
+Go to facebook=str57|apps
+Go to discord=str58|apps
+Go to forum profile=str59|apps
+Show Profile=str60|apps
+SHOW MORE=str61|apps
+SHOW LESS=str62|apps
+Read more=str63|apps
+Total Applications=str64|apps
+Total Known Downloads=str65|apps
+Total Docker Applications=str66|apps
+Total Plugin Applications=str67|apps
+Total Languages=str68|apps
+Average Downloads Per App=str69|apps
+Web Page=str70|apps
+Forum=str71|apps
+Forum Profile=str72|apps
+Profile=str73|apps
+Facebook=str74|apps
+Reddit=str75|apps
+Twitter=str76|apps
+Discord=str77|apps
+Search Apps=str78|apps
+Registry=str79|apps
+Details=str80|apps
+Added=str81|apps
+; Install Plugin title of openbox
+Install Plugin=str83|apps
+BACK=str84|apps
+
+; Remove App from previously installed
+Delete Template=str87|apps
+Yes, delete it=str88|apps
+
+; Uninstall popup
+Uninstall Application=str91|apps
+Yes uninstall it=str92|apps
+
+; Remove Private Application
+Remove Private Application=str95|apps
+Yes, remove it=str96|apps
+
+; App Pinning
+Click to pin this application=str99|apps
+Click to unpin this application=str100|apps
+Pin App=str101|apps
+Unpin App=str102|apps
+
+; Branch installations
+Choose A Branch To Install=str105|apps
+
+; Multiple application installs
+; no apps selected
+Install Selected Applications=str109|apps
+
+Yes, install it=str111|apps
+
+; Multi-install popup
+Yes, install them=str114|apps
+Cookies not enabled Plugins must be separately installed from docker applications=str115|apps
+Docker applications will be installed utilizing the most recently saved template with no user input on your part=str116|apps
+Updating Support Links=str117|apps
+Downloading docker icons=str118|apps
+Finished Installing If the DONE button did not appear, then you will need to click the red X in the top right corner=str119|apps
+
+; error messages
+No data was returned It is probable that another browser session has rebooted your server Reloading this browser tab will probably fix this error=str122|apps
+An error occurred Could not find any %s Apps=str123|apps|%s
+Download of appfeed failed=str124|apps
+; the %s here refers to a function being called
+Something really went wrong here=str126|apps
+Post the ENTIRE contents of this message in the Community Applications Support Thread=str127|apps
+Unknown error happened Please post a screenshot in the support thread of the Statistics screen=str128|apps
+Something really wrong happened Reloading the Apps tab will probably fix the problem=str129|apps
+This plugin has a duplicated name from another plugin %s This will impact your ability to install both plugins simultaneously=str130|apps|%s
+You have been logged out=str131|apps
+Fatal Flash Drive Error=str132|apps
+This usually means your flash drive is corrupted or has dropped offline The rest of the Unraid GUI will also be affected Post a new thread in the Unraid forums if this error continues=str133|apps
+Fatal Docker Image Error=str134|apps
+Your docker image or folder is either read-only or completely full Issues will result because of this You should create a new post in the Unraid forums and include your diagnostics=str135|apps
+This template is set up to use a custom network You may have to adjust the network or IP address etc to match your system=str136|apps
+One or more ports used by this application are already in use by another service or app running on your server You will need to adjust the host ports accordingly on the template=str137|apps
+
+; CA Sections Keep the length reasonable
+Home=str140|apps
+Installed Apps=str141|apps
+Previous Apps=str142|apps
+Pinned Apps=str143|apps
+Favourite Repo=str144|apps
+Action Centre=str145|apps
+Recently Added=str146|apps
+Random Apps=str147|apps
+Top New Installs=str148|apps
+Top Trending Apps=str149|apps
+Spotlight Apps=str150|apps
+All Apps=str151|apps
+Statistics=str152|apps
+Credits=str153|apps
+Support=str154|apps
+VERSION=str155|apps
+Change Log=str156|apps
+Debugging=str157|apps
+
+; Credits
+Development=str160|apps
+Additional Contributions=str161|apps
+GUI Layout Design=str162|apps
+Application Feed=str163|apps
+Additional Testing=str164|apps
+Moderation=str165|apps
+Additional Libraries=str166|apps
+Copyright=str167|apps
+Translation=str168|apps
+
+; Statistics page
+
+unknown=str172|apps
+Last Change To Application Feed=str173|apps
+Docker Applications=str174|apps
+Plugin Applications=str175|apps
+Templates=str176|apps
+Official Containers=str177|apps
+Repositories=str178|apps
+Private Docker Applications=str179|apps
+Invalid Templates=str180|apps
+Template Errors=str181|apps
+Blacklisted Apps=str182|apps
+Incompatible Applications=str183|apps
+Deprecated Applications=str184|apps
+Moderation Entries=str185|apps
+Primary Server=str186|apps
+Backup Server=str187|apps
+Installs not allowed from this page=str188|apps
+
+; Statistics Popup
+No invalid templates found=str191|apps
+These templates are invalid and the application they are referring to is unknown=str192|apps
+No templates were automatically fixed=str193|apps
+All of these errors found have been fixed automatically=str194|apps
+Note that many of these errors can be avoided by following the directions=str195|apps
+HERE=str196|apps
+The following plugins have duplicated filenames and are not able to be installed simultaneously=str197|apps
+The following docker applications refer to the same docker repository but may have subtle changes in the template to warrant this=str198|apps
+If any of these entries are incorrect then contact the moderators of CA to discuss=str199|apps
+Global Repository Comments=str200|apps
+Applied to all applications=str201|apps
+Individual Application Moderation=str202|apps
+
+; Misc
+Community Applications Changelog=str205|apps
+
+Each month we highlight some of the amazing work from our community=str207|apps
+Check out these newly added applications from our awesome community=str208|apps
+Check out these up and coming apps=str209|apps
+These apps have the highest percentage of new installs=str210|apps
+An assortment of randomly chosen apps=str211|apps
+
+; Categories try not to be excessively long This is displayed on the left of CA screen
+
+Backup=str215|apps
+Cloud=str216|apps
+Crypto Currency=str217|apps
+Downloaders=str218|apps
+Drivers=str219|apps
+Game Servers=str220|apps
+Home Automation=str221|apps
+Media Applications=str222|apps
+Books=str223|apps
+Music=str224|apps
+Photos=str225|apps
+Video=str226|apps
+Other=str227|apps
+Media Servers=str228|apps
+Network Services=str229|apps
+DNS=str230|apps
+FTP=str231|apps
+Management=str232|apps
+Messenger=str233|apps
+Proxy=str234|apps
+VOIP=str235|apps
+VPN=str236|apps
+Web=str237|apps
+Privacy=str238|apps
+Productivity=str239|apps
+Security=str240|apps
+Spotlight=str241|apps
+Tools Utilities=str242|apps
+System=str243|apps
+Themes=str244|apps
+Utilities=str245|apps
+Private Apps=str246|apps
+Uncategorized=str247|apps
+
+; Categories displayed within a popup or on the card.  Where an entry exists after the "=str249|apps
+GameServers=str250|apps
+HomeAutomation=str251|apps
+MediaApp=str252|apps
+MediaAppBooks=str253|apps
+MediaAppMusic=str254|apps
+MediaAppPhotos=str255|apps
+MediaAppVideo=str256|apps
+MediaAppOther=str257|apps
+MediaServer=str258|apps
+MediaServerBooks=str259|apps
+MediaServerMusic=str260|apps
+MediaServerPhotos=str261|apps
+MediaServerVideo=str262|apps
+MediaServerOther=str263|apps
+Network=str264|apps
+NetworkDNS=str265|apps
+NetworkFTP=str266|apps
+NetworkManagement=str267|apps
+NetworkProxy=str268|apps
+NetworkVOIP=str269|apps
+NetworkVPN=str270|apps
+NetworkPrivacy=str271|apps
+NetworkWeb=str272|apps
+NetworkOther=str273|apps
+ToolsSystem=str274|apps
+ToolsThemes=str275|apps
+ToolsUtilities=str276|apps
+OtherUncategorized=str277|apps
+and %s more=str278|apps|%s
+
+; App Popup Related
+This application template has been blacklisted=str281|apps
+This application template has been deprecated=str282|apps
+This application has additional requirements=str283|apps
+Additional Requirements=str284|apps
+Donate To Author=str285|apps
+Donate To Maintainer=str286|apps
+CLOSE=str287|apps
+Author=str288|apps
+Maintainer=str289|apps
+DockerHub=str290|apps
+Application Template=str291|apps
+DockerHub Stars=str292|apps
+Added to CA=str293|apps
+Date Updated=str294|apps
+Current Version=str295|apps
+Min OS=str296|apps
+Max OS=str297|apps
+Total Downloads=str298|apps
+Licence=str299|apps
+Ranked #%s=str300|apps|%s
+; as in Trending up or down arrow
+Trending %s=str302|apps|%s
+; as in As of some date
+As of %s=str304|apps|%s
+Play Video=str305|apps
+Play Video %s=str306|apps|%s
+This application is not compatible with your version of Unraid=str307|apps
+Another browser tab or device has updated the displayed templates Some actions are not available=str308|apps
+WebUI=str309|apps
+Reinstall=str310|apps
+Reinstall From Previous Apps=str311|apps
+Install=str312|apps
+Uninstall=str313|apps
+Project=str314|apps
+Read Me First=str315|apps
+Install second instance=str316|apps
+Install Using The Templates Default Tag=str317|apps
+Moderator Comments=str318|apps
+Note not all authors keep up to date on change logs=str319|apps
+Note not all maintainers keep up to date on change logs=str320|apps
+Last Update=str321|apps
+Note All statistics are only gathered every 30 days=str322|apps
+;the following if using a space you MUST use nbsp but keep it down to one word if at all possible
+Donate=str324|apps
+Currently Installed Version=str325|apps
+Install The Update=str326|apps
+; as in you have the latest version already installed
+Latest Version=str328|apps
+Multi Language Support=str329|apps
+Support Forum=str330|apps
+; as in more than 100000
+More than %s=str332|apps|%s
+Remove from Previous Apps=str333|apps
+Remove=str334|apps
+See All Apps=str335|apps
+Favourite=str336|apps
+Application Type=str337|apps
+
+; Graphs
+Trend Per Month=str340|apps
+Downloads Per Month=str341|apps
+
+; Multi install script
+Installing docker applications %s=str344|apps|%s
+Starting %s=str345|apps|%s
+%s failed to start You should install it by itself to fix the errors=str346|apps|%s
+Setting installed applications to autostart=str347|apps
+Docker Application Installation finished=str348|apps
+
+; Application Cards
+Actions=str351|apps
+This application is a driver plugin=str352|apps
+This is a language pack=str353|apps
+This application is a docker container=str354|apps
+This application is a plugin=str355|apps
+This is a spotlight application=str356|apps
+This is your favourite repository=str357|apps
+This application is from your favourite repository=str358|apps
+This application is pinned for later viewing=str359|apps
+Private Application=str360|apps
+Remove Application From List=str361|apps
+Check off to select multiple reinstalls=str362|apps
+Go to the plugin settings=str363|apps
+Click to reinstall the application using default values=str364|apps
+Click to edit the application values=str365|apps
+Click to reinstall=str366|apps
+Click to install=str367|apps
+Click to go to the WebUI=str368|apps
+This application template has been deprecated=str369|apps
+This application template has been blacklisted=str370|apps
+Click info to see the notes regarding this application=str371|apps
+This application has additional requirements=str372|apps
+BETA=str373|apps
+INSTALLED=str374|apps
+OFFICIAL=str375|apps
+UPDATED=str376|apps
+This is an official container=str377|apps
+Digitally Signed=str378|apps
+This container is digitally signed=str379|apps
+Docker Hub=str380|apps
+NOTE You must visit the dockerHub page to gather the information required to install correctly=str381|apps
+Show CA templates=str382|apps
+Deprecated=str383|apps
+Incompatible=str384|apps
+Blacklisted=str385|apps
+Template Exists=str386|apps
+Template already exists in Apps=str387|apps
+; eg: LinuxServer Repository
+%s Repository=str389|apps|%s
+; eg: Squid's Repository
+%s's Repository=str391|apps|%s
+
+Info=str393|apps
+Attention=str394|apps
+Repository=str395|apps
+Why we picked it=str396|apps
+Application Spotlight %s=str397|apps|%s
+Unraid Staff=str398|apps
+
+; Page Navigation
+Displaying %s - %s of %s=str401|apps|%s|%s|%s
+
+Updating Content=str403|apps
+Language=str404|apps
+Switch to this language=str405|apps
+Country Code=str406|apps
+Install Language Pack=str407|apps
+Remove Language Pack=str408|apps
+Update Language Pack=str409|apps
+Installed Version=str410|apps
+A note about translations=str411|apps
+Click here to view the language changelog=str412|apps
+View Missing Translations=str413|apps
+
+; dockerHub conversions
+Determine configuration=str416|apps
+Would you like CA to attempt to determine any applicable paths, ports, and variables for the template This will entail performing a test installation of the container It will be automatically deleted after processing The container will not be started=str417|apps
+An error occurred - Could not determine configuration=str418|apps
+; WebGui
+Click Install to download and install the Community Applications plugin=str420|apps

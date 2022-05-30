@@ -1,0 +1,5 @@
+Not available=str1|systemprofiler
+P + Q algorithm=str2|systemprofiler
+System Overview=str3|systemprofiler
+Unraid server=str4|systemprofiler
+Unraid system=str5|systemprofiler
